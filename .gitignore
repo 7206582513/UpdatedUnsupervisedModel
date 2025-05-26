@@ -1,0 +1,40 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm & VS Code configs
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Static output files
+/static/cluster_plot.png
+/static/uploads/
+
+# Log and temp files
+*.log
+*.tmp
+*.bak
+
+# Ignore uploaded CSVs (optional)
+*.csv
+
+# Deployment files
+*.sqlite3
+*.db
