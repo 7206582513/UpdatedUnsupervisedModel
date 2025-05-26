@@ -1,5 +1,8 @@
 # 💳 Bank Customer Segmentation using Clustering (Unsupervised ML)
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://updatedunsupervisedmodel.onrender.com)
+
+
 This Flask web app segments bank customers into meaningful groups using multiple unsupervised clustering techniques:  
 **HDBSCAN, KMeans, DBSCAN, Agglomerative Clustering**
 
